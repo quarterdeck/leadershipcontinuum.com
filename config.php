@@ -4,7 +4,7 @@ return [
     'production' => false,
     'baseUrl' => '',
     'title' => 'The Leadership Continuum',
-    'description' => 'Website description.',
+    'description' => 'A real world pragmatic look at leadership in business',
     'collections' => [],
     'season' => match(idate('n')){
         3,4,5 => 'spring',
