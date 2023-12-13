@@ -7,9 +7,6 @@
 @endsection
 
 @section('main')
-{{ $page->getFilename() }} <br>
-{{ str($page->getFilename())->substr(11) }} <br>
-
     <div class="container mx-auto py-3 border-t-2 border-b border-t-gray-900 border-b-gray-300 mb-8">
         <div class="mb-3">
             <h2 class="uppercase font-bold inline text-sm">Articles</h2> |
