@@ -7,7 +7,7 @@ subtitle: If you do this you will stand out above everyone else. People will be 
 
 You may find that in many of Dale Carnegie’s principles he often uses words that mean the same thing but we should probably give him the benefit of the doubt as we wouldn’t want to miss an important but subtle meaning.
 
-In this principle at first glance you might think that honest and sincere have the same meaning. However when you look closely you will see that if something is honest it is true, not false. Whereas you could give someone a compliment that is true but you are not grateful for it. For instance you could compliment someone on what a good driver they are without benign appreciative of the fact.
+In this principle at first glance you might think that honest and sincere have the same meaning. However when you look closely you will see that if something is honest it is true, not false. Whereas you could give someone a compliment that is true but you are not grateful for it. For instance you could compliment someone on what a good driver they are without being appreciative of the fact.
 
 Why is this important? We can all think of good qualities people have but giving this feedback without the gratitude is the difference between merely listing someone’s features and truly making that person feel valued.
 

@@ -10,10 +10,10 @@
         <link rel="stylesheet" href="/css/main.css">
     </head>
     <body class="text-gray-900 font-serif antialiased">
-        <header class="container mx-auto">
+        <header class="container mx-auto px-8">
             @yield('header')
         </header>
-        <main>
+        <main class="container mx-auto px-8">
             @yield('main')
         </main>
     </body>

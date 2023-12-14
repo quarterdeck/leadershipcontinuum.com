@@ -11,7 +11,7 @@
             <li class="py-1 hover:text-indigo-500"><a href="/leaders-digest">Leader's Digest</a></li>
             <li class="py-1 hover:text-indigo-500"><a href="/profiles">Profiles</a></li>
         </ul>
-        <img src="/img/ouroboros-banner.svg" class="max-w-sm" />
+        <img src="/img/ouroboros-banner.svg" class="w-96" />
         <ul class="italic text-center divide-y divide-blue-300 w-32">
             <li class="py-1 hover:text-indigo-500"><a href="/skills">Skills</a></li>
             <li class="py-1 hover:text-indigo-500"><a href="/books">Books</a></li>
