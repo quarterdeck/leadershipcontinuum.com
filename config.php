@@ -7,12 +7,8 @@ return [
     'title' => 'The Leadership Continuum',
     'description' => 'A real world, pragmatic look at leadership in business',
     'collections' => [
-        'articles' => [
-            'sort' => 'date',
-        ],
-        'profiles' => [
-            'sort' => 'date',
-        ],
+        'articles' => ['sort' => 'date'],
+        'profiles' => ['sort' => 'date'],
     ],
     'season' => match(idate('n')){
         3,4,5 => 'spring',

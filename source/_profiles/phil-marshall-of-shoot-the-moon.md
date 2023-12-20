@@ -3,7 +3,7 @@ extends: _layouts.profile
 date: 2021-09-28
 slug: phil-marshall-of-shoot-the-moon
 title: Phil Marshall of Shoot the Moon
-subtitle: If you do this you will stand out above everyone else. People will be drawn to you and want to help you.
+subtitle: Our industry is people, there's a lot of technology and software involved, but anybody can buy that.
 ---
 We work in strategic brand, creative, digital and content services. We’ve got studios in Manchester, Lancashire and Leeds. The individual studios provide distinct services, but internally, we work more as one team. We have the talents of Shoot the Moon, Eat & Breathe, Anytime after 9, JGM and now Delineo within the Group.
 
