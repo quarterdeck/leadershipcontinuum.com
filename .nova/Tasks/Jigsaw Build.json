@@ -2,7 +2,7 @@
   "actions" : {
     "build" : {
       "enabled" : true,
-      "script" : "#!\/bin\/sh\n~\/Developer\/leadershipcontinuum.com\/vendor\/bin\/jigsaw build"
+      "script" : "#!\/bin\/sh\n~\/Developer\/leadershipcontinuum.com\/composer update\n~\/Developer\/leadershipcontinuum.com\/vendor\/bin\/jigsaw build"
     }
   }
 }

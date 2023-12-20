@@ -8,9 +8,10 @@ return [
     'description' => 'A real world, pragmatic look at leadership in business',
     'collections' => [
         'articles' => [
-            'path' => function($article){
-                return 'articles/' . Str::substr($article->getFilename(), 11);
-            },
+            'sort' => 'date',
+        ],
+        'profiles' => [
+            'sort' => 'date',
         ],
     ],
     'season' => match(idate('n')){
