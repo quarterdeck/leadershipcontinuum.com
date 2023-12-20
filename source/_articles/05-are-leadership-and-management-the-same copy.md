@@ -3,7 +3,8 @@ extends: _layouts.article
 timestamp: 2023-12-20 17:44:17
 slug: are-leadership-and-management-the-same
 title: Are Leadership and Management the Same?
-subtitle: Sub-title
+subtitle: Exploring the Distinct Yet Interconnected Realms of Leadership and Management
+meta_description: Dive into the nuances that distinguish leadership from management in this insightful exploration, perfect for business leaders and professionals seeking a deeper understanding of organisational dynamics.
 ---
 <!-- ```
 Write an insightful article for business leaders.
@@ -28,13 +29,6 @@ Provide YAML front matter including current timestamp, article slug, article tit
 
 The title of the article is: Are Leadership and Management the Same?
 ``` -->
----
-timestamp: 2023-12-20T00:00:00Z
-article_slug: are-leadership-and-management-the-same
-article_title: Are Leadership and Management the Same?
-article_subtitle: Exploring the Distinct Yet Interconnected Realms of Leadership and Management
-seo_meta_description: Dive into the nuances that distinguish leadership from management in this insightful exploration, perfect for business leaders and professionals seeking a deeper understanding of organisational dynamics.
----
 
 # Are Leadership and Management the Same?
 ## Exploring the Distinct Yet Interconnected Realms of Leadership and Management
