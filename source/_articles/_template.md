@@ -1,5 +1,6 @@
 ---
 extends: _layouts.article
+date: 2000-01-01
 title: Title
 subtitle: Sub-title
 ---
