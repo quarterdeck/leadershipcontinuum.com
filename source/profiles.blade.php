@@ -11,7 +11,7 @@
 		<img src="/img/{{ $page->season }}.svg" class="w-10 h-10" />
 	</div>
 	<nav class="flex justify-center font-semibold text-2xl border-y-2 border-gray-900 py-2 -translate-y-3">
-		<a href="/quotes" class="px-3 relative hover:text-indigo-500">Profiles</a>
+		<a href="/articles" class="px-3 relative hover:text-indigo-500">Profiles</a>
 	</nav>
 @endsection
 
