@@ -21,10 +21,12 @@ When we started out and had a small team, we were all working closely together a
 
 Nurturing talent, learning & development; keeping the team inspired, focused, and aligning to ‘the plan’ is the challenge. But it's always worth spending time on.
 
-The structure is whatever makes the team perform. It’s finding the balance of being aligned to your customers’ requirements, but also ensuring that the team feel engaged and part of something.
+> The structure is whatever makes the team perform. It’s finding the balance of being aligned to your customers’ requirements, but also ensuring that the team feel engaged and part of something.
+
 There's a structure in terms of line management, performance management, learning and development. Operationally we work in project teams, so we'll pull a project together which might be three people from one studio, two from another, and a guest now and again, because we benefit from their involvement on specific projects. What we've done is build that agility into our operational team, but not to the point that the team don't understand where they're going or where they're going to be this time next year. It's a balance of operational agility, aligned to customers requirements, and a strong service model, but also ensuring that the team are engaged and understand how they contribute.
 
-You know you've struck the chord, when you see things happening in the business that you've had very little to do with, that feel good and you’re proud of.
+> You know you've struck the chord, when you see things happening in the business that you've had very little to do with, that feel good and you’re proud of.
+
 You can get stuff done if you put a rulebook in place. Look at it like McDonald’s; if you want a burger to be a certain specification, you can have all the equipment and everything can be programmed, you can make a lot of burgers that are perfectly to spec and quality. But when you get into the realms of agility and creativity, then leadership comes more into play. It ensures everybody keeps to the rhythm in the business. To have the same outlook, understand why we're here, but not produce a ‘standard’ product, the team need to make judgments and more importantly, the right judgments. To me, that's where leadership comes into play. It’s about creating the culture that delivers the full proposition. When that proposition is dynamic, and when what’s right for for one customer is not right for another, the team need to assess and respond to the situation.
 
 Leadership is about continually reinforcing why we're here, what journey we're on and ensuring that everybody understands what part they play, to the point it becomes second nature. You know you've struck a chord, when you see things happening in the business that you've had very little to do with that feel good and you’re proud of.
@@ -41,8 +43,10 @@ Don't get me wrong, we don't get it right all the time, but that’s part of the
 
 We've spent a lot of time not just discussing this, but actually leaving it with the team to go and chew over. The way that we communicate it to new members of the team, isn’t actually driven by me. It’s written by the team. I've rubber stamped it and agreed with it, but actually it's theirs and it's in their words. This is far more effective than me having a stand up every week, that's not the way we do things because the culture is owned by the team, by the business itself, not just driven by me.
 
-If each of us hires people who are smaller than we are, we shall become a company of dwarfs. But if each of us hires people who are bigger than we are, we shall become a company of giants.
-- David Ogilvy
+> If each of us hires people who are smaller than we are, we shall become a company of dwarfs. But if each of us hires people who are bigger than we are, we shall become a company of giants.
+
+_- David Ogilvy_
+
 If you've developed a business with people who are always less capable than you because it makes you feel superior, you'll have a really poor business. You need to surround yourself with people who are better than you. On that basis you should let them get on with their job.
 
 When it’s your own business, and you're excited about it, there is a propensity to get too involved. And sometimes you have to tell yourself that it's not your job anymore and that you've got far better people in the business. As much as you'd like to get your hands dirty and you love it, you need to be strict with yourself.
@@ -51,16 +55,19 @@ One of the things I've had to learn to do is to just let the team get on with it
 
 When it's your business and you're passionate about it, and you’ve put your blood, sweat and tears into it, admittedly, it can be difficult to step back.
 
-We should always make time for people and bring them along willingly. Short term rewards are one thing, you can get things done, but if we're talking about leadership and management you've got to spend time making sure that the team genuinely want to come with you and they see long term benefit.
+> We should always make time for people and bring them along willingly. Short term rewards are one thing, you can get things done, but if we're talking about leadership and management you've got to spend time making sure that the team genuinely want to come with you and they see long term benefit.
 Being open and honest, is huge. We have something in our business called ‘brutal honesty’. If you're unhappy come and tell us - if there's something wrong, if you don't get something, speak up. You'll get a straight answer, if you don't agree with it, we’ll make time to talk about it a bit more.
 
-Culture is a current.
+## Culture is a current.
+
 It’s the things that you put in the business that create a current, like a river. It's based on genuine engagement, support, goodwill, buy-in, loyalty, respect, and a mutual exchange. That current is your culture. It carries the team with it, makes it easy to do the things right and harder to do the things wrong by swimming against it.
 
 When you've created the positive flow within the business, and anybody who jumps in naturally gets taken along with it, the business gains positive momentum.
 
-In tough times it’s tempting to batten down the hatches and dispense with everything that isn’t absolutely necessary. Leadership is often one of those things. But in tough times we need more leadership not less.
-- Quarterdeck
+> In tough times it’s tempting to batten down the hatches and dispense with everything that isn’t absolutely necessary. Leadership is often one of those things. But in tough times we need more leadership not less.
+
+_- Quarterdeck_
+
 As much as during the pandemic, leadership is going to be massively important as we come out of the global health and economic crisis. People generally like a little bit of consistency in their lives, something to put a hand on that doesn't move, but everything's been moving over the last year. So we're needing to massively dial it up, particularly while we can't see the team physically.
 
-That's something that we've definitely missed. We can operate remotely but operate is just functional, we really excel when we're together, that’s when more magic happens. Leadership is also far easier when you're in closer proximity, so we’ve had to innovate to compensate for this. For a performing team, solid leadership, agility and clear direction are top of the agenda in 2021.
+That's something that we've definitely missed. We can operate remotely but operate is just functional, we really excel when we're together, that’s when more magic happens. Leadership is also far easier when you're in closer proximity, so we’ve had to innovate to compensate for this. For a performing team, solid leadership, agility and clear direction are top of the agenda.
