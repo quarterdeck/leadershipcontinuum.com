@@ -5,9 +5,9 @@ slug: are-leadership-and-management-the-same
 title: Are Leadership and Management the Same?
 subtitle: Sub-title
 ---
-```
+<!-- ```
 Write an insightful article for business leaders. Write an appealing style like the Harvard Business Review. The title of the article is: Are Leadership and Management the Same?
-```
+``` -->
 
 In the dynamic world of business, the terms "leadership" and "management" are often used interchangeably, yet they represent fundamentally different aspects of company direction and culture. Understanding the distinction between these two roles is crucial for any business leader aiming to foster a successful and sustainable organization.
 
