@@ -1,6 +1,6 @@
 ---
 extends: _layouts.article
-timestamp: 2023-12-20 17:32:29
+timestamp: 2023-12-20 17:44:17
 slug: are-leadership-and-management-the-same
 title: Are Leadership and Management the Same?
 subtitle: Sub-title
