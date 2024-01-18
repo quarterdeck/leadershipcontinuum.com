@@ -1,6 +1,6 @@
 ---
 extends: _layouts.article
-timestamp: 2024-01-12 18:07:52
+timestamp: 2020-10-22 12:55:46
 slug: are-leadership-styles-and-theories-the-same
 title: Are Leadership Styles and Theories the Same?
 subtitle: Unraveling the Intricacies of Leadership Dynamics

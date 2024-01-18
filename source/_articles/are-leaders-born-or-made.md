@@ -1,6 +1,6 @@
 ---
 extends: _layouts.article
-timestamp: 2024-01-15 10:02:09
+timestamp: 2021-08-23 19:17:44
 slug: are-leaders-born-or-made
 title: Are Leaders Born or Made? Exploring the Essence of Leadership
 subtitle: Unraveling the Mystery Behind Effective Leadership

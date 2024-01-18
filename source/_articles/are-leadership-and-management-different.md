@@ -1,6 +1,6 @@
 ---
 extends: _layouts.article
-timestamp: 2024-01-15 09:48:21
+timestamp: 2022-04-27 19:42:44
 slug: are-leadership-and-management-different
 title: Are Leadership and Management Different?
 subtitle: Exploring the Distinct Roles and Synergy in Business Success

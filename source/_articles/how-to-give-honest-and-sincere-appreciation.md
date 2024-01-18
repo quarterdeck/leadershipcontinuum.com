@@ -1,6 +1,6 @@
 ---
 extends: _layouts.article
-timestamp: 2023-12-13 14:29:27
+timestamp: 2017-08-13 14:29:27
 title: How to Give Honest and Sincere Appreciation
 subtitle: If you do this you will stand out above everyone else. People will be drawn to you and want to help you.
 ---

@@ -1,6 +1,6 @@
 ---
 extends: _layouts.article
-timestamp: 2024-01-15 10:18:41
+timestamp: 2021-04-10 13:15:32
 slug: are-leadership-and-management-the-same-thing
 title: Understanding the Difference - Leadership vs. Management
 subtitle: Exploring the Unique Qualities and Synergies of Leadership and Management

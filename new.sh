@@ -21,7 +21,7 @@ cat > "$filename" <<EOF
 Using the article you just wrote fill in the values for the following YAML template.
 ---
 extends: _layouts.article
-timestamp:  (insert current timestamp in format 2023-12-20 17:32:29 using GMT timezone)
+timestamp:  (pick a random timestamp from the last five years in the format 2023-12-20 17:32:29)
 slug: (article title in slug/kebab case)
 title:  (insert title of the article)
 subtitle: (write an enticing sub title)

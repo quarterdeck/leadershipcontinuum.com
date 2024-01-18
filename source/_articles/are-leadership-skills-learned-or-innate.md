@@ -1,6 +1,6 @@
 ---
 extends: _layouts.article
-timestamp: 2024-01-15 09:35:44
+timestamp: 2019-05-12 13:26:37
 slug: are-leadership-skills-learned-or-innate
 title: Are Leadership Skills Learned or Innate?
 subtitle: Exploring the Intricacies of Leadership Development

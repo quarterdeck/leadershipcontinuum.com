@@ -1,6 +1,6 @@
 ---
 extends: _layouts.article
-timestamp: 2024-01-12 13:32:05
+timestamp: 2023-07-15 21:11:19
 slug: are-leadership-courses-worth-it
 title: Are Leadership Courses Worth It?
 subtitle: Unveiling the Impact of Leadership Training on Your Career

@@ -1,6 +1,6 @@
 ---
 extends: _layouts.article
-timestamp: 2024-01-15 09:55:35
+timestamp: 2022-05-17 01:29:53
 slug: exploring-the-intersection-of-leadership-and-management
 title: Exploring the Intersection of Leadership and Management
 subtitle: Unraveling the Dynamics between Leading and Managing in the Modern Workplace
