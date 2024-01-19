@@ -8,6 +8,7 @@
         <meta name="description" content="{{ $page->description }}">
         <title>{{ $page->title }}</title>
         <link rel="stylesheet" href="/css/main.css">
+        <script src="https://cdn.usefathom.com/script.js" data-site="TTIPHZFF" defer></script>
     </head>
     <body class="text-gray-900 font-serif antialiased">
         <header class="container mx-auto px-8">
