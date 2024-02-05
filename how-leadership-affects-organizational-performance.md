@@ -1,26 +1,3 @@
-#!/bin/zsh
-
-# clear console
-clear
-
-# Function to create a slug from a string
-slugify() {
-	echo "$1" | tr '[:upper:]' '[:lower:]' | sed 's/[^a-zA-Z0-9]/-/g' | sed 's/--*/-/g'
-}
-
-# Check if an argument is provided
-if [ "$#" -ne 1 ]; then
-	echo "Usage: $0 'Article Title'"
-	exit 1
-fi
-
-# Convert title to slug
-title="$1"
-slug=$(slugify "$title")
-
-# Create markdown file with a basic template
-filename="${slug}.md"
-cat > "$filename" <<EOF
 Using the article you just wrote fill in the values for the following YAML template. Make sure to include the --- delimiters.
 ---
 extends: _layouts.article
@@ -48,8 +25,5 @@ I require your expertise as a content writer with a strong proficiency in SEO an
 
 6. **Formatting**: Use appropriate tags (h1, h2, h3, h4, h5, h6) for the headings to maintain a clear hierarchy.
 
-Please begin by writing an article on the provided topic: $title.
+Please begin by writing an article on the provided topic: how leadership affects organizational performance.
 
-EOF
-
-echo "Markdown file created: $filename"
