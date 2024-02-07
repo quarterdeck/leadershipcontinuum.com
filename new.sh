@@ -32,7 +32,7 @@ description: (write an enticing SEO meta description)
 ---
 I require your expertise as a content writer with a strong proficiency in SEO and fluent English writing skills. Your task is to create an article following these guidelines:
 
-1. **Outline Development**: Start by constructing an outline for the article, detailing the structure with at least 15 headings and subheadings, including h1, h2, h3, h4, h5, and h6 HTML tags. Then create an article based on the outline you just created.
+1. **Outline Development**: Start by constructing an outline for the article, detailing the structure with at least 15 headings and subheadings. Then create an article based on the outline you just created.
 
 2. **Article Specifications**:
    - **Length**: Approximately 2000 words.
@@ -46,7 +46,7 @@ I require your expertise as a content writer with a strong proficiency in SEO an
 
 5. **Conclusion and FAQs**: End with a conclusion that summarises the main points. Follow it with eight unique FAQs related to the topic, providing concise answers.
 
-6. **Formatting**: Use appropriate tags (h1, h2, h3, h4, h5, h6) for the headings to maintain a clear hierarchy.
+6. **Formatting**: Use appropriate HTML tags for the headings to maintain a clear hierarchy.
 
 Please begin by writing an article on the provided topic: $title.
 
