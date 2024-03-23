@@ -19,9 +19,9 @@ title="$1"
 slug=$(slugify "$title")
 
 # Create markdown file with a basic template
-filename="${slug}.md"
+filename="_drafts/${slug}.md"
 cat > "$filename" <<EOF
-Using the article you just wrote fill in the values for the following YAML template. Make sure to include the --- delimiters.
+Using the article you just wrote fill in the values for the following YAML template. Make sure to include the --- delimiters. Enclose the title, subtitle and description values in double quotation marks.
 ---
 extends: _layouts.article
 timestamp: (pick a random timestamp from the last five years during working hours in the format 2023-12-20 17:32:29)
@@ -45,8 +45,6 @@ Article Specifications:
 SEO Considerations: Ensure the article is keyword-optimised without compromising on quality. Include naturally flowing keywords and phrases relevant to the topic, maintaining a balance between readability and search engine friendliness.
 
 Engagement and Clarity: Write content that is engaging, clear, and easy to follow. Focus on making the article informative and interesting, catering to both human readers and search engines.
-
-Formatting: Use appropriate HTML tags for the headings to maintain a clear hierarchy.
 
 EOF
 
