@@ -11,13 +11,11 @@
     </head>
     <body class="text-gray-900 font-serif antialiased">
         <header class="container mx-auto px-8">
-            <p class="text-center italic pt-2 uppercase">{{ $page->description }}</p>
-            <div class="flex justify-around items-center mt-6 px-20 z-10 relative pb-0">
-                <img src="/img/ouroboros.svg" class="w-32" />
-            </div>
+            {{ $header }}
         </header>
         <main class="container mx-auto px-8">
             {{ $slot }}
+            {{ $page->production }}
         </main>
     </body>
 </html>
