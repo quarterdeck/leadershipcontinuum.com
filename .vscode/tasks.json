@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+        {
+            "type": "shell",
+            "label": "Jigsaw Build",
+            "command": "vendor/bin/jigsaw build",
+            // "detail": "composer update && jigsaw build",
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
