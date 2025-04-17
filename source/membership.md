@@ -11,6 +11,6 @@ Government departments and industry leaders regularly consult our community dire
 
 Together, we can help close the leadership gap and create lasting positive impact.
 
-If you're intersted simply email <a href="mailto:membership@leadershipcontinuum.com>membership@leadershipcontinuum.com</a>
+If you're intersted simply email <a href="mailto:membership@leadershipcontinuum.com">membership@leadershipcontinuum.com</a>
 
 <!-- The only requirement is that you link to us from your footer using one of our badges. -->
