@@ -1,17 +1,7 @@
 ---
 extends: _layouts.home
-section: content
 ---
-Thank you for providing the URL. I'll update the copy to reflect that:
-
-# The Leadership Continuum - Homepage Copy
-
-## Hero Section
-**Transforming Britain's Economic Future Through Leadership Excellence**
-
 The quality of leadership within UK organisations directly impacts our national prosperity. The Leadership Continuum bridges research, policy, and practice to strengthen Britain's leadership ecosystem as our most valuable economic asset.
-
-[**Download Our Latest Report: The Leadership-Growth Connection**]
 
 ## Our Mission
 
@@ -20,6 +10,20 @@ We elevate leadership excellence across UK organisations to catalyse sustainable
 The Leadership Continuum fills a critical gap in Britain's policy landscape by quantifying and enhancing the relationship between leadership quality and economic outcomes.
 
 *83% of high-growth UK companies cite leadership quality as their primary competitive advantage*
+
+
+
+## Why It Matters
+
+**National Competitiveness:** Leadership quality ranks among the top three factors determining the UK's global economic position, alongside technological adoption and regulatory frameworks.
+
+**Organisational Resilience:** Companies with mature leadership development ecosystems demonstrate 40% greater survival rates during economic downturns compared to those without.
+
+**Inclusive Growth:** Leadership diversity correlates directly with broader economic participation, with each 10% increase in leadership diversity yielding a 1.2% increase in market expansion.
+
+*Britain's leadership advantage has narrowed against international competitors—closing this gap represents a trillion GBP economic opportunity*
+
+
 
 ## The Leadership-Economy Connection
 
@@ -41,32 +45,51 @@ The Leadership Continuum fills a critical gap in Britain's policy landscape by q
 
 **Policy Influence:** We shape national conversations and policy recommendations that position leadership development as critical economic infrastructure.
 
-*Our research-to-practice model creates measurable improvements in organisational performance within 12-24 months*
+*Research-to-practice models create measurable improvements in organisational performance within 12 months*
 
-## Featured Insights
+---
 
-**Latest Research: "Leadership Agility and Economic Resilience"**
-Our groundbreaking study reveals how adaptive leadership practices enabled certain UK organisations to outperform competitors by 34% during recent economic uncertainties.
+## Leadership Research and Insights
 
-**Leadership Trend: The Productivity-Purpose Connection**
-Our longitudinal data demonstrates how purpose-driven leadership approaches deliver 28% higher productivity gains than traditional performance-focused models.
+*These studies provide valuable insights into the relationship between leadership styles and organizational outcomes, supporting the mission of The Leadership Continuum to enhance leadership excellence in the UK.*
 
-**Economic Implication: The Leadership Skills Gap**
-Our analysis with the Department for Business and Trade identifies critical leadership competency gaps that could constrain UK economic growth by 0.8% by 2027 if left unaddressed.
+### 1. Transformational Leadership and Team Performance
+**Summary**: A meta-analysis reveals that transformational leadership significantly enhances team performance, collective efficacy, and trust among team members. It highlights the indirect positive effects of transformational leadership on organizational outcomes.
 
-[**View All Research Publications**]
+**URL**: [https://journals.sagepub.com/doi/10.1177/2158244013497027](https://journals.sagepub.com/doi/10.1177/2158244013497027)
 
-## Why It Matters
+### 2. Engaging Leadership and Employee Wellbeing
+**Summary**: This study investigates the impact of engaging leadership on employee engagement, team effectiveness, and overall wellbeing. Leaders who fulfill employees' basic needs improve happiness, trust, and reduce burnout.
 
-**National Competitiveness:** Leadership quality ranks among the top three factors determining the UK's global economic position, alongside technological adoption and regulatory frameworks.
+**URL**: [https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0269433](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0269433)
 
-**Organisational Resilience:** Companies with mature leadership development ecosystems demonstrate 40% greater survival rates during economic downturns compared to those without.
+### 3. Virtuous Leadership and Organizational Performance
+**Summary**: Haile (2023) links virtuous leadership to improved organizational performance, increased worker wellbeing, and higher productivity. It emphasizes leadership's macroeconomic role in the UK.
 
-**Inclusive Growth:** Leadership diversity correlates directly with broader economic participation, with each 10% increase in leadership diversity yielding a 1.2% increase in market expansion.
+**URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/bjir.12711](https://onlinelibrary.wiley.com/doi/abs/10.1111/bjir.12711)
 
-*Britain's leadership advantage has narrowed against international competitors—closing this gap represents a £42 billion economic opportunity*
+### 4. Authentic and Transformational Leadership
+**Summary**: A meta-analytic review shows a strong overlap between authentic and transformational leadership styles, both of which are positively correlated with job satisfaction, organizational commitment, and turnover reduction.
 
-## Get Involved
+**URL**: [https://cclinnovation.org/wp-content/uploads/2020/04/2016lqawardpaper.pdf](https://cclinnovation.org/wp-content/uploads/2020/04/2016lqawardpaper.pdf)
+
+### 5. Transformational Leadership's Role in Employee Retention
+**Summary**: This study explores how transformational leadership influences employee retention by fostering job satisfaction, creating a supportive work environment, and empowering employees.
+
+**URL**: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.872105/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.872105/full)
+
+### 6. Transformational Leadership Enhancing Proactive Behavior
+**Summary**: Research demonstrates how transformational leaders drive proactive behavior through goal-setting mechanisms, improving job satisfaction and organizational commitment.
+
+**URL**: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6281759/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6281759/)
+
+---
+
+
+
+
+
+<!-- ## Get Involved
 
 **For Businesses:**
 Join our Leadership Impact Network to benchmark your leadership practices against industry leaders, access cutting-edge frameworks, and participate in sectoral leadership initiatives.
@@ -77,9 +100,9 @@ Collaborate on evidence-based policy recommendations that position leadership de
 **For Academics:**
 Partner with our research team to develop new metrics, methodologies, and models for understanding the leadership-economy relationship.
 
-[**Become a Partner**]
+[**Become a Partner**] -->
 
-## About Us
+<!-- ## About Us
 
 **Core Team:**
 Led by experienced economists, leadership researchers, and policy experts from institutions including the London School of Economics, Harvard Business School, and former senior advisors to HM Treasury.
@@ -90,9 +113,9 @@ Our guidance comes from distinguished leaders across sectors, including FTSE 100
 **Partners:**
 We collaborate with the UK's premier business schools, industry associations, and government departments to ensure our work delivers maximum impact.
 
-[**Meet Our Team**]
+[**Meet Our Team**] -->
 
-## Latest News & Events
+<!-- ## Latest News & Events
 
 **Recent Publication:** "The Leadership Imperative: Securing Britain's Economic Future" featured in the Financial Times
 
@@ -100,9 +123,9 @@ We collaborate with the UK's premier business schools, industry associations, an
 
 **Recent Announcement:** Launch of the National Leadership Capability Index in partnership with the CBI
 
-[**View All News & Events**]
+[**View All News & Events**] -->
 
-## Contact Us
+<!-- ## Contact Us
 
 Transform your organisation's leadership capability and contribute to Britain's economic prosperity.
 
@@ -112,4 +135,4 @@ Transform your organisation's leadership capability and contribute to Britain's 
 
 [**Subscribe to Our Newsletter**]
 
-[Connect with us on LinkedIn | Twitter | YouTube]
+[Connect with us on LinkedIn | Twitter | YouTube] -->

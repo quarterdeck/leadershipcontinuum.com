@@ -5,7 +5,7 @@ return [
     'production' => false,
     'baseUrl' => '',
     'title' => 'The Leadership Continuum',
-    'description' => 'A real world, pragmatic look at leadership in business',
+    'description' => 'Increasing the GDP of the UK through leadership development of its organisations',
     'collections' => [
         'essays' => ['sort' => 'timestamp'],
     ]
