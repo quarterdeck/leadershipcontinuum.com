@@ -26,8 +26,8 @@
                 {{-- <a href="#" class="text-gray-600 hover:text-gray-900">About</a>
                 <a href="#" class="text-gray-600 hover:text-gray-900">Blog</a>
                 <a href="#" class="text-gray-600 hover:text-gray-900">Jobs</a>
-                <a href="#" class="text-gray-600 hover:text-gray-900">Press</a>
-                <a href="#" class="text-gray-600 hover:text-gray-900">Accessibility</a> --}}
+                <a href="#" class="text-gray-600 hover:text-gray-900">Press</a> --}}
+                <a href="/funding" class="text-gray-600 hover:text-gray-900">Funding</a>
                 <a href="/membership" class="text-gray-600 hover:text-gray-900">Membership</a>
             </nav>
             <p class="mt-10 text-center text-sm/6 text-gray-600">&copy; {{ date('Y') }} Leadership Continuum. All rights reserved.</p>

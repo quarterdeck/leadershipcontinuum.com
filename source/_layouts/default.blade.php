@@ -5,10 +5,10 @@
         </div>
 
         <h1 class="font-semibold text-6xl tracking-tight leading-none text-center text-gray-800 mb-5">
-            Membership
+            {{ $page->title }}
         </h1>
         <p class="font-medium text-lg tracking-tight leading-relaxed text-center text-gray-500 max-w-sm mx-auto">
-            Help transform Britain's economic future through leadership excellence.
+            {{ $page->description }}
         </p>
     </x-slot>
 
