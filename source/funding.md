@@ -24,7 +24,9 @@ We've funded thousands of places on leadership workshops over the last 10 years.
 
 Free Leadership Skills Workshops for Young Adults
 
-So many say they wished they'd learnt more leadership skills before they started their careers. If you run an educational institution for young adults then get in touch. Let's give your students the best start possible before going into the workforce.
+So many say they wished they'd learnt more leadership skills before they started their careers.
+
+If you run an educational institution for young adults then get in touch. Let's give your students the best start possible before going into the workforce.
 
 ---
 

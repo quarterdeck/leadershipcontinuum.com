@@ -4,9 +4,7 @@
         {
             "type": "shell",
             "label": "Jigsaw Build",
-            "command": "vendor/bin/jigsaw build",
-            // "detail": "composer update && jigsaw build",
-            "problemMatcher": [],
+            "command": "vendor/bin/jigsaw build && vendor/bin/jigsaw build production",
             "group": {
                 "kind": "build",
                 "isDefault": true
