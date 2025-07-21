@@ -30,4 +30,4 @@ If you run an educational institution for young adults then get in touch. Let's 
 
 ---
 
-If you're intersted simply email <a href="mailto:funding@leadershipcontinuum.com">funding@leadershipcontinuum.com</a>
+If you're interested simply email <a href="mailto:funding@leadershipcontinuum.com">funding@leadershipcontinuum.com</a>

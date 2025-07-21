@@ -18,6 +18,6 @@ Benefits of membership include:
 - Subsidised CPD accreditation
 - Access to our <a href="/funding">funding</a> pool
 
-If you're intersted simply email <a href="mailto:membership@leadershipcontinuum.com">membership@leadershipcontinuum.com</a>
+If you're interested simply email <a href="mailto:membership@leadershipcontinuum.com">membership@leadershipcontinuum.com</a>
 
 <!-- The only requirement is that you link to us from your footer using one of our badges. -->
