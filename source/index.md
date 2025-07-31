@@ -49,6 +49,36 @@ The Leadership Continuum fills a critical gap in Britain's policy landscape by q
 
 ---
 
+## Work in Progress
+
+### The State of Leadership Development Training in the UK
+**Status**: Research Phase | Expected Publication: Q2 2026
+
+This comprehensive whitepaper examines the current landscape of leadership development training across UK sectors. Our research investigates investment levels, methodological approaches, effectiveness metrics, and emerging best practices. Initial findings suggest significant disparities between sectors and organisation sizes, with SMEs particularly underserved despite representing 99% of UK businesses.
+
+**Key Areas of Investigation:**
+- Mapping of leadership development investment across public and private sectors
+- Analysis of training methodologies and their relative effectiveness
+- ROI measurement frameworks and their adoption rates
+- Barriers to leadership development implementation
+- International benchmarking against G7 nations
+
+### The Strategic Evolution of L&D in UK Corporates
+**Status**: Data Collection | Expected Publication: Q2 2026
+
+This report analyses the changing role of Learning & Development functions within UK corporate structures. As organisations face rapid technological change and evolving workforce expectations, L&D departments are transitioning from cost centres to strategic business partners. Our research examines how this transformation impacts leadership capability building and organisational performance.
+
+**Research Focus:**
+- The shift from training delivery to strategic capability building
+- Integration of L&D with business strategy and workforce planning
+- Technology adoption and digital transformation in L&D practices
+- Measurement of L&D impact on leadership pipeline development
+- Case studies of successful L&D transformations in FTSE 100 companies
+
+*Preliminary interviews reveal only 23% of UK L&D functions operate at strategic partnership level*
+
+---
+
 ## Leadership Research and Insights
 
 *These studies provide valuable insights into the relationship between leadership styles and organizational outcomes, supporting the mission of The Leadership Continuum to enhance leadership excellence in the UK.*
